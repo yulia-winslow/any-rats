@@ -112,14 +112,9 @@ Data analyst finding unconventional insights in public datasets.
 
 ---
 
-## 🔮 What's Next?
+⭐ **Star this repo if you found it useful!**
 
-This is **Project #1** in my series analyzing overlooked public datasets.
-
-**Coming soon:**
-- Time-series analysis: Are rats seasonal?
-- Correlation with real estate prices
-- Predictive model for future violations
+🐀 **Know someone in NYC? Share this page: [theoryofvalues.com](https://theoryofvalues.com)**
 
 **Have an idea for unconventional data analysis?** [Reach out!](https://theoryofvalues.com#contact)
 
